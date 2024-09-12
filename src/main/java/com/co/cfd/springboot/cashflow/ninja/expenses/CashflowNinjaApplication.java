@@ -1,4 +1,4 @@
-package com.co.cfd.springboot.cashflow.ninja.cashflow_ninja;
+package com.co.cfd.springboot.cashflow.ninja.expenses;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
