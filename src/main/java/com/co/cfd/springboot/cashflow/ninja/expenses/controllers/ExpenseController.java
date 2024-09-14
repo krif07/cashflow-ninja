@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.co.cfd.springboot.cashflow.ninja.expenses.entities.Expense;
 import com.co.cfd.springboot.cashflow.ninja.expenses.services.IExpenseService;
 
-import java.util.List;
 import java.util.Optional;
 
 import org.springframework.http.ResponseEntity;
